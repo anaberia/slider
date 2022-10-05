@@ -26,6 +26,12 @@ function App() {
             </div>
           );
         })}
+        <button className="prev">
+          <FiChevronLeft />
+        </button>
+        <button className="next">
+          <FiChevronRight />
+        </button>
       </div>
     </section>
   );
