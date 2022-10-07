@@ -10,7 +10,7 @@ const people = [
   {
     id: 2,
     image: "./images/john doe.jpg",
-    name: "john doe",
+    name: "oliver champ",
     title: "regular guy",
     quote:
       "The review system itself is very easy to use and adds great value to our website. ",
