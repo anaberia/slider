@@ -1,35 +1,35 @@
 const people = [
   {
     id: 1,
-    image:
-      "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg",
+    image: "./images/maria ferguson.jpg",
     name: "maria ferguson",
     title: "office manager",
-    quote: "text",
+    quote:
+      " I have been using the reviews service for sometime now and totally recommend this service in terms of the value it adds to a website and its all round flexibility.",
   },
   {
     id: 2,
-    image:
-      "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg",
+    image: "./images/john doe.jpg",
     name: "john doe",
     title: "regular guy",
-    quote: "text",
+    quote:
+      "The review system itself is very easy to use and adds great value to our website. ",
   },
   {
     id: 3,
-    image:
-      "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959121/person-1_aufeoq.jpg",
+    image: "./images/peter smith.jpg",
     name: "peter smith",
     title: "product designer",
-    quote: "text",
+    quote:
+      "A design review is a product development milestone in which you assess a product design against specific criteria. The design review phase may identify problems in the current design or prototype before implementation.",
   },
   {
     id: 4,
-    image:
-      "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg",
+    image: "./images/susan andersen.jpg",
     name: "susan andersen",
     title: "the boss",
-    quote: "text",
+    quote:
+      "We suggest keeping your review general, and writing directly to the company to praise or complain about specific employees.",
   },
 ];
 
